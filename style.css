@@ -13,6 +13,11 @@ body
     overflow: overlay;
 }
 
+html
+{
+    scroll-behavior: smooth;
+}
+
 #top
 {
     position: relative;
